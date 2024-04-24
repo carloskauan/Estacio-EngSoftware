@@ -64,3 +64,13 @@ Empresa de maior faturamento em programas de computador, conhecida pelo sistema 
 ##### Apple Inc.
 
 Em 1976, vendeu 200 unidades do seu primeiro PC, o Apple I. No ano seguinte, contudo, o Apple II vendeu milhares de unidades. A organização, então, abriu seu capital na bolsa de Nova York. 
+
+### Quarta geração:  Microprocessadores.
+
+A decada de 1980 presenciou a proliferação de PCs cada vez mais potentes, baratos e conectados ´por meio  do surgimento da internet: a rede mundial.
+
+Alemd disso, um novo equipamento aparecia nos lares: o video game, um tipo de computador especilizados, cujo programas são jogos eletronicos com enfase nos graficos e na interação com os usuarios.
+
+Apos o fim do seculo XX, os computadores ja eram tão pequenos e potentes que se encontravam embarcados em diversos equipamentos cotidianos, como automoveis, aviões e videogames, alem de se tornar mais comum a presença de laptops(microcomputadores pessoais portateis) nas casas das pessoas
+
+Não tardou muito para serem integrados a televisões e celulares. Nos anos 2010, essa integração passou a ser feita por intermedio de smartphones e smart Tvs

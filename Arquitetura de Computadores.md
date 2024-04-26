@@ -74,3 +74,31 @@ Alemd disso, um novo equipamento aparecia nos lares: o video game, um tipo de co
 Apos o fim do seculo XX, os computadores ja eram tão pequenos e potentes que se encontravam embarcados em diversos equipamentos cotidianos, como automoveis, aviões e videogames, alem de se tornar mais comum a presença de laptops(microcomputadores pessoais portateis) nas casas das pessoas
 
 Não tardou muito para serem integrados a televisões e celulares. Nos anos 2010, essa integração passou a ser feita por intermedio de smartphones e smart Tvs
+
+## Hardware e Software
+
+Hardware: Componentes fisicos, ou seja, o que pode ser visto e tocado.
+
+Software: Programas executados no computador
+
+ ## Principais componentes de Hardware
+
+ ### Processador
+
+Tambem conhecido como CPU(Central Processing Unit), processador é o cerebro do computador, pois recebe as instruções e as executa sequencialmente. Seu principal componente e a unidade logica aritimetica, responsavel por operações como adicionar e subtrair
+
+#### Clock
+
+A execução das instruções de um processador é regulada pela presença de um pulso de frequencia constanate denominado clock, que é medido em Hertz(hz)- numeros de pulos por segundo
+
+ Uma das principais caracteristicas de um processador é a velocidade com que consegue executar instruções. Isso depende diretamente da frequencia do clock
+
+#### MultiCore
+
+Ao longo do tempo por conta da interferencia fisica entre seus componentes, ficou inviavel a continuação do aumento de clockk a cada geração. A solução dada pelos projestista foi colocar diversos microprocessadores(chamados nucleos) dentro de um mesmo chip de processador. Tecnica conhecida como multicore.
+
+Assim foram criados processadores com como por exemplo Dual core(dois nuclueos) e Quad core(quatro nucleos)
+
+> Atualmente , a maioria dos processadores de mercado (inclusive celulares) utiliza ao menos quatro core e frequencias de clock de alguns bilhões de bulsos ghz
+
+####  

@@ -99,6 +99,6 @@ Ao longo do tempo por conta da interferencia fisica entre seus componentes, fico
 
 Assim foram criados processadores com como por exemplo Dual core(dois nuclueos) e Quad core(quatro nucleos)
 
-> Atualmente , a maioria dos processadores de mercado (inclusive celulares) utiliza ao menos quatro core e frequencias de clock de alguns bilhões de bulsos ghz
+> Atualmente , a maioria dos processadores de mercado (inclusive celulares) utiliza ao menos quatro core e frequencias de clock de alguns bilhões de pulsos ghz
 
 ####  

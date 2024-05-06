@@ -101,4 +101,25 @@ Assim foram criados processadores com como por exemplo Dual core(dois nuclueos) 
 
 > Atualmente , a maioria dos processadores de mercado (inclusive celulares) utiliza ao menos quatro core e frequencias de clock de alguns bilhões de pulsos ghz
 
-####  
+###  Memoria RAM
+
+A memoria principal é parte fundamental do computador, pois se trata do espaço onde são armazenados os dados e os programas executados no processador. Ela funciona com uma serie de celulas em cada uma armazena um conjunto de 8bits (chamado de bytes). essas celulas funcionam como caixas de correio: cada uma tem seu endereço, embora so armazene uma carta por vez.
+
+A memoria tamebem conhecida como RAM( EM SEU FORMATO MAIS COMUM) por permitir o acesso a qualquer endereço em qualquer ordem
+
+Disso o nome de Memori de Acesso Aleatorio(Random Acess Memory), nomrmalmente essas memorias são vendidas em pentes de memoria.
+
+Esse tipo de memoria é volatil, ou seja, seus daddos são apagados quando o sistema fica sem energia
+
+
+#### Principais caracteristicas
+
+##### Capacidade de armazenamento
+
+Se possui 4gb de armazenamento, a memoria conta com 4 bilhoes dessas celulas, podendo armazenar ate 32 bilhoes de bits de dados
+
+##### Velocidade de comunicação com barramento
+
+Trata-se da velocidade com que a memoria consegue transferir os dados para o processador
+
+Por exemplo, uma memoria de 400mhz consegue transferir dados para o procesador com uma taxa de ed 3200mps (3bilhoes e 200 milhoes de bits por segundo)

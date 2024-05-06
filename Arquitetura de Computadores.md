@@ -123,3 +123,49 @@ Se possui 4gb de armazenamento, a memoria conta com 4 bilhoes dessas celulas, po
 Trata-se da velocidade com que a memoria consegue transferir os dados para o processador
 
 Por exemplo, uma memoria de 400mhz consegue transferir dados para o procesador com uma taxa de ed 3200mps (3bilhoes e 200 milhoes de bits por segundo)
+
+### Placa-mãe
+
+A placa mãe consiste em um circuito eletrico impresso e uma serie de componentes conectados nela.
+
+Os principais componentes são:
+
+* So quente de do processador
+* Soquente de encaixe dos pentes de memoria
+* Barramentos de perifericos (PCIx, por exemplo)
+
+A função basica da placa-mãe é conectar o processador, a memoria e os perifericos. Essas conexões são chamadas de barramentos.
+Conforme a tecnologia se desenvolve, a placa-mãe começa a integrar em si perifericos que ate então precisavam ser encaixados nela, como placas de video, placas de rede, placas constroladoras de portas seriais e paralelas.
+
+> Placas mães dos celulares são circuitos altamente complexos, contando com processador, memoria, controladora de video, controladora de video toutchscreen, acelerometro, gps e plca de rede sem fio e celulcar. Todos eles estão integrados a sua placa-mãe
+
+### Perifericos
+
+Por se conectarem a parte central do computador, seus demais componentes são chamados, em geral de perifericos. Muitos mostram ser tão relevantes que não seriam capazes de imaginar sistemas computacionais sem eles.
+
+#### Dispositivos de entrada
+
+* Tela touchscreen: permite a seleção de elementos sem precisar do mouse
+* Teclado: segue um padrão ja definido das maquinas de escrever, facilitando seu uso e sua aceitação
+* Mouse: abre novos rumos por permitir a indicação de pontosna tela e a seleção deles, o que gerou um grande impacto no desenvolvimento de interface graficas
+* Microfone: capta o audio
+* Camera: capta audio com video
+* Placa de rede: recebe os dados transmitidos pela rede
+
+#### Dispositivos de saida
+
+* Sistema de video: Composto geralmente por uma placa de video e um monitor ou uma tela
+* Alto-falantes ou caixas de som: Emite sons e sinais sonoros
+* Impressora: imprime documentos elaborados no computador
+* Placa de rede: Envia dados pela rede
+
+### Memoria secundaria
+
+Mais conhecidas como HD(Hard Disk ou Disco Rigirdo) elas possuem essa nomenclatura porque sua tecnologia predominante envolve discos magneticos lidos e escritos por uma cabeçote
+
+Atualmente, essa tecnologia tem sido substituida por discos de estado solido SSD, que são muito raidos e menos propensos a falhas e desgastes por não haver partes moveis mecanicas neles
+
+#### Princiapais caracteristicas da memoria secundaria
+
+* Normalmente medida em GB ou TB
+* Velocidade de transmissão que depende do barramento da placamãe

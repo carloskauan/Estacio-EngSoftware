@@ -169,3 +169,15 @@ Atualmente, essa tecnologia tem sido substituida por discos de estado solido SSD
 
 * Normalmente medida em GB ou TB
 * Velocidade de transmissão que depende do barramento da placamãe
+
+## Software
+
+### Software finalisticos ou de aplicação
+
+Geralemente, são rodados de forma consciente nos computadores, entregando as funcionalidades desejadas por seu usuario. ex:
+* Nasvegadores de internet -  Chrome, Firefox e Explore
+* Planilhas - Exel e Libreoffice Calc
+* Editores de texto - Word e Libreoffice Writter
+* Jogos eletronicos - LoL e Fortinite
+
+### Softwares de sistema

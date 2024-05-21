@@ -181,3 +181,5 @@ Geralemente, são rodados de forma consciente nos computadores, entregando as fu
 * Jogos eletronicos - LoL e Fortinite
 
 ### Softwares de sistema
+
+Permitem que os finalísticos rodem em muitas máquinas com hardwares diversificados. Os softwares de sistema incluem os drivers dos dispositivos instalados no computador, ou seja, programas que controlam como se acessa e comanda determinado periférico.
